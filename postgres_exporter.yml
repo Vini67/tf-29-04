@@ -1,0 +1,8 @@
+disable_settings_metrics: false
+auto_discover_databases: true
+exclude_databases: 
+  - template0
+  - template1
+  - postgres
+
+  
